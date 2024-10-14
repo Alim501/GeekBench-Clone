@@ -1,0 +1,18 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Projects\\CPP\\test",
+            "binaryPath": "c:\\Projects\\CPP\\test\\my_program",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Projects\\CPP\\test",
+            "binaryPath": "c:\\Projects\\CPP\\test\\benchmark_tool",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "thread": "cpp",
+        "vector": "cpp"
+    }
+}

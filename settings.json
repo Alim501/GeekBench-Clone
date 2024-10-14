@@ -1,0 +1,6 @@
+{
+    "makefile.makePath": "make",
+    "makefile.buildDirectory": "${workspaceFolder}",
+    "makefile.buildCommand": "make",
+    "makefile.cleanCommand": "make clean"
+}
